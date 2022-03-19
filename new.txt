@@ -1,0 +1,4 @@
+1.Name - Elena
+2.Age - 37 
+3.Pets - 0 
+4.Salary - 600"$.
