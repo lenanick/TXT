@@ -1,17 +1,17 @@
   ID: 1,
-  Title: Краш приложения при отмене подтверждения входа, 
-  Precondition: Профиль авторизован в мобильном приложении ,
+  Title: "Краш приложения при отмене подтверждения входа",
+  Precondition: "Профиль авторизован в мобильном приложении" ,
   STR:
-      1. Открыть десктопное приложение winapp, 
+      1. Открыть десктопное приложение winapp,
       2. Авторизоваться под тем же аккаунтом, что и на мобильном устройстве,
       3. Отклонить код-картинку на мобильном устройстве, нажать ""Decline",
-      4. Выбрать причину отмены ""The code/picture doesn't matchv,
+      4. Выбрать причину отмены "The code/picture doesn't matchv",
       5. Нажать "Send".
-          
-  Expected result: Приложение продолжает работу, 
-  Actual_result: Приложение крашится,
-  Severity: "Hight", 
+
+  Expected result: "Приложение продолжает работу",
+  Actual_result: "Приложение крашится",
+  Severity: "Hight",
   Environment: ZTE blade A7,
-  Reproducibility: Usually,
   Attachments:
+  Reproducibility: Usually
  
