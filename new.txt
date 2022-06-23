@@ -1,4 +1,4 @@
-1.Name - Elena
-2.Age - 37 
-3.Pets - 0 
-4.Salary - 600"$.
+name:Elena,
+age:38,
+Pets:0,
+salary:500$.
