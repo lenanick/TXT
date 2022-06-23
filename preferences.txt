@@ -1,5 +1,5 @@
-Favorite film - The girls
-Favorite serial - No
-Favorite food - Vareniks
-Favorite season - Spring
-Favorite coutry - Holland
+Favorite film: The girls
+Favorite serial: No
+Favorite food: Vareniks
+Favorite season: Spring
+Favorite coutry: Holland
